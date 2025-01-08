@@ -18,11 +18,11 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "Autores",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "Categorias",
           "url": "/categories"
         },
         {
@@ -30,11 +30,7 @@
           "url": "/tags"
         },
         {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
+          "name": "Políticas de Privacidad",
           "url": "/privacy-policy"
         }
       ]
@@ -42,19 +38,15 @@
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "Sobre Nosotros",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
+      "name": "Políticas de Privacidad",
       "url": "/privacy-policy"
     }
   ]
