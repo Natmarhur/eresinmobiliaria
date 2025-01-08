@@ -3,7 +3,7 @@ title: Finca Cafetera con Casa Colonial y Producción de Frutas, Cafe y Plátano
 description: "meta description"
 date: 2022-04-10
 image: "/images/posts/post2.png"
-categories: ["Lotes Risaralda"]
+categories: ["Lotes Risaralda","Casas"]
 authors: ["Natalia Martinez"]
 tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes santa rosa de cabal"]
 draft: false
