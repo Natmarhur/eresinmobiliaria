@@ -15,6 +15,6 @@ Con fácil acceso y rodeado por la belleza natural característica de la región
 
 ¡Haz realidad tu proyecto en uno de los destinos más visitados del Eje Cafetero!
 
-Área del terreno: 430 mt2
-Precio total: $ 95.000.0000 COP
-Especificaciones: Lotes en Villa Verde – Pereira, en ladera inclinada de 35° ideales para casas de 3 niveles o casas tipo mirador. Con acceso vía pavimentada, doble vía.
+Área del terreno: 1.900 mt2
+Precio total: $ 495.000.0000 COP
+Especificaciones: Excelentes para la construcción de espacios turísticos

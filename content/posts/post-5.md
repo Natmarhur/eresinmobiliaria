@@ -15,6 +15,6 @@ La ubicación estratégica permite disfrutar de la tranquilidad de la naturaleza
 
 ¡No pierdas la oportunidad de invertir en uno de los mejores sectores de Pereira para hacer realidad tu proyecto de vivienda o inversión!
 
-Área del terreno: 1.900 mt2
-Precio total: $ 495.000.000 COP
-Especificaciones: A borde de carretera, Al frente del Mirador de la Finca del Café – Santa Rosa de Cabal
+Área del terreno: 430 mt2
+Precio total: $ 95.000.000 COP
+Especificaciones: A borde de carretera, Al final e Villaverde - Pereira, queará con entrada doble. 

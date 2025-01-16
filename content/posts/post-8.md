@@ -1,21 +1,23 @@
 ---
-title: "Lote Amplio con Casa de Tres Pisos y Recursos Naturales en Combia, Risaralda"
+title: "Hermosa Casa de tres pisos en Combia-Risaralda"
 description: "meta description"
-image: "/images/posts/post7.png"
-date: 2021-02-03
+image: "/images/posts/post8.png"
+date: 2025-15-01
 draft: false
 authors: ["Natalia Martinez"]
-tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes combia"]
-categories: ["lotes risaralda"] 
+tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes combia","casas combia","casas risaralda"]
+categories: ["lotes risaralda","casas"] 
 ---
 
-Este lote de 8,500 m², ubicado en la tranquila zona de Combia, Risaralda, incluye una espaciosa casa de tres pisos ideal para proyectos familiares o comerciales. Rodeado de un entorno natural privilegiado, la propiedad cuenta con tres nacimientos de agua, lo que asegura un recurso invaluable para cualquier desarrollo o actividad agrícola.
+Descubre esta increíble propiedad ubicada en la tranquilidad de Combia, Risaralda. Cuenta con una amplia casa de tres pisos, rodeada de naturaleza y vistas espectaculares.
 
-La ubicación estratégica de la propiedad ofrece acceso a paisajes verdes y un ambiente sereno, ideal para quienes buscan invertir en un espacio que combine comodidad, naturaleza y potencial de valorización.
+Características destacadas:
+Lote amplio con cultivos y áreas verdes.
+Instalaciones en excelente estado, listas para disfrutar.
+Perfecta para quienes buscan comodidad y contacto con la naturaleza.
+Ideal para vivienda o inversión turística. ¡No pierdas la oportunidad de adquirir este paraíso campestre! 🌿
 
-¡Aprovecha esta oportunidad de vivir o invertir en un lugar único en el corazón del Eje Cafetero!
 
-
-Área del terreno: 8.500 mt2 con casa construida de 250 mt2
-Precio total: $ 900.000.0000 COP
-Especificaciones: Acceso a borde de carretera principal, lote en ladera de 15° aproximadamente, con tres nacimientos de agua de la cuenca media de Combia.
+Área del terreno: 8.200 mt2 con casa de tres niveles independientes
+Precio total: $ 300.000.0000 COP
+Especificaciones: Acceso a borde de carretera principal, a 5 minutos del parqeu industrial - terreno estable listo para sembrar con vista al sur occidente sobre la cuenca del valle superior del cauca.
