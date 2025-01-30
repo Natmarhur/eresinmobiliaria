@@ -1,7 +1,7 @@
 ---
 title: "Apartamento en Villa Magdala - Bogotá"
 description: "meta description"
-date: 2023-29-12
+date: 2025-01-06
 image: "/images/posts/post9.png"
 categories: ["Casas"]
 authors: ["Natalia Martinez"]
