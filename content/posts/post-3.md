@@ -1,7 +1,7 @@
 ---
 title: Finca de Lujo en San Jerónimo, Antioquia. Exclusividad y Naturaleza
 description: "meta description"
-date: 2022-06-02
+date: 2025-01-06
 image: "/images/posts/post3.png"
 categories: ["lotes Antioquia"]
 authors: ["Natalia Martinez"]

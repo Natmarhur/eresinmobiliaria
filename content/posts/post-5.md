@@ -2,7 +2,7 @@
 title: "Lotes Exclusivos en Villaverde - Pereira: Perfectos para Casas de Tres Niveles"
 description: "meta description"
 image: "/images/posts/post4.png"
-date: 2021-01-25
+date: 2025-01-06
 draft: false
 authors: ["Natalia Martinez"]
 tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes villa verde"]

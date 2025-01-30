@@ -1,7 +1,7 @@
 ---
 title: Finca Cafetera con Casa Colonial y Producción de Frutas, Cafe y Plátano
 description: "meta description"
-date: 2022-04-10
+date: 2025-01-06
 image: "/images/posts/post2.png"
 categories: ["Lotes Risaralda","Casas"]
 authors: ["Natalia Martinez"]

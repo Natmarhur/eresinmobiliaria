@@ -1,7 +1,7 @@
 ---
 title: "Lotes Exclusivos en el Corazón de la Naturaleza a 5 Minutos de Santágueda"
 description: "meta description"
-date: 2023-29-12
+date: 2025-01-06
 image: "/images/posts/post1.png"
 categories: ["Lotes Caldas"]
 authors: ["Natalia Martinez"]

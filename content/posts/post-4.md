@@ -2,7 +2,7 @@
 title: "Lote en el Corazón del Turismo en Santa Rosa de Cabal"
 description: "meta description"
 image: "/images/posts/post5.png"
-date: 2021-02-02
+date: 2025-01-06
 draft: false
 authors: ["Natalia Martinez"]
 tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes santa rosa de cabal"]
