@@ -3,7 +3,7 @@ title: "Apartamento en Villa Magdala - Bogotá"
 description: "meta description"
 date: 2025-01-06
 image: "/images/posts/post9.png"
-categories: ["Casas"]
+categories: ["Casas","Apartamentos"]
 authors: ["Natalia Martinez"]
 tags: ["apartamentos baratos", "apartamentos bogotá","propiedades bogotá", "propiedad raiz"]
 draft: false

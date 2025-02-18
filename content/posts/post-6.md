@@ -2,7 +2,7 @@
 title: "Lote Exclusivo en Condominio Los Nogales, Cerca de Chinchiná"
 description: "meta description"
 image: "/images/posts/post6.png"
-date: 2021-02-03
+date: 2025-01-06
 draft: false
 authors: ["Natalia Martinez"]
 tags: ["lotes", "terrenos","lotes Caldas","propiedad raiz","lotes chinchiná"]
