@@ -2,7 +2,7 @@
 title: "Hermosa Casa de tres pisos en Combia-Risaralda"
 description: "meta description"
 image: "/images/posts/post8.png"
-date: 2025-05-02
+date: 2025-06-01
 draft: false
 authors: ["Natalia Martinez"]
 tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes combia","casas combia","casas risaralda"]
